@@ -38,12 +38,12 @@
 		<dependency>
 			<groupId>gov.va.isaac.modules</groupId>
 			<artifactId>sync-svn</artifactId>
-			<version>Sprint_18-SNAPSHOT</version>
+			<version>Sprint_18</version>
 		</dependency>
 		<dependency>
 			<groupId>gov.va.isaac.modules</groupId>
 			<artifactId>sync-git</artifactId>
-			<version>Sprint_18-SNAPSHOT</version>
+			<version>Sprint_18</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.maven</groupId>

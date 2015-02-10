@@ -62,3 +62,9 @@ commitMessage - The commit message to use - defaults to [SCMPublish Plugin]
 profileSyncUsername
 
 profileSyncPassword
+
+
+
+Release Notes
+=============
+mvn jgitflow:release-start jgitflow:release-finish -DdevelopmentVersion=1.1-SNAPSHOT -DreleaseVersion=1.0 -DaltDeploymentRepository=maestro::default::https://va.maestrodev.com/archiva/repository/va-releases -DdefaultOriginUrl=https://github.com/Apelon-VA/simple-scm-publish.git
